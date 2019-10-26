@@ -1,4 +1,4 @@
-Tutorial memakai git
+>>Tutorial memakai git<<
 
 A.Installasi Git
 	1.Pertama download aplikasi git di (git-scm.com).
@@ -59,3 +59,7 @@ I.Push(Mengirim Perubahan Ke Server)
 
 J.Clone Repository
 	1.Gunakan perintah git clone "git clone [URL]" tanpa kutip.(screanshot 18) 
+
+Nama  : MUHAMMAD FATCHUL HUDA
+NIM   : 311910101
+kelas : TI.19.D.2
